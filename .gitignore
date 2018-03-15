@@ -1,6 +1,7 @@
-.DS_Store
-vendor
-build
-node_modules
-wiki
-amp.zip
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
