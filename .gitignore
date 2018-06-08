@@ -1,9 +1,7 @@
-.DS_Store
-vendor
-build
-node_modules
-wiki
-amp.zip
-**/*-compiled.js
-languages/*.pot
-languages/*.php
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
